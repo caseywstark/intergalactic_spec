@@ -3,8 +3,8 @@ Big list of constants.
 We use 'const double' here so the values will be inlined at compilation.
 */
 
-#ifndef __cs_constants_h__
-#define __cs_constants_h__
+#ifndef __is_constants_h__
+#define __is_constants_h__
 
 // Define pi so we don't have to worry about missing M_PI (C99).
 // pi and multiples in double precision.

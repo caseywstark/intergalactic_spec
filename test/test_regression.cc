@@ -7,7 +7,7 @@ Run a realistic problem with all methods.
 
 #include <string>
 
-#include "cosmo_spec.h"
+#include "intergalactic_spec.h"
 
 #include "catch.hpp"
 

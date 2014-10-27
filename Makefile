@@ -12,7 +12,7 @@ CPPFLAGS += -I./lib
 
 LIB_SRCS = $(wildcard lib/*.cc)
 LIB_OBJS = $(patsubst %.cc,%.o,$(LIB_SRCS))
-LIB_TARGET = libcosmospec.a
+LIB_TARGET = libispec.a
 
 TEST_SRCS = $(wildcard test/*.cc)
 TEST_OBJS = $(patsubst %.cc,%.o,$(TEST_SRCS))

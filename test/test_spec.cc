@@ -1,15 +1,12 @@
 /*
-
 Path integration test cases.
-
 - Uniform medium
 - Gaussian bump
-
 */
 
 #include <cstdio>
 
-#include "cosmo_spec.h"
+#include "intergalactic_spec.h"
 
 #include "catch.hpp"
 

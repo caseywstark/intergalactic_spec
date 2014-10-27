@@ -1,9 +1,9 @@
 /*
-2013, the gimlet authors. See LICENSE for more info.
+Misc. util functions.
 */
 
-#ifndef __cs_util_h__
-#define __cs_util_h__
+#ifndef __is_util_h__
+#define __is_util_h__
 
 inline int
 index_wrap(const int i, const int n) {

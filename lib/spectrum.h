@@ -2,11 +2,10 @@
 Copyright 2014, Casey W. Stark. See LICENSE for more information.
 
 The spectrum header provides the functions for computing the optical depth.
-
 */
 
-#ifndef __cs_spectrum_h__
-#define __cs_spectrum_h__
+#ifndef __is_spectrum_h__
+#define __is_spectrum_h__
 
 #include "constants.h"
 

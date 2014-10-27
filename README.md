@@ -1,4 +1,4 @@
-# Cosmo spec
+# Intergalactic Spec
 
 A small C++ library that calculates the optical depth to resonant line
 scattering in a cosmological background. This was implemented for Ly$\alpha$
@@ -7,7 +7,7 @@ forest calculations, but can easily be extended to other atomic species.
 ## Building
 
 The build system is just a `Makefile` that creates the static library
-`libcosmospec.a`. Please modify the make variables `CXX`, `CPPFLAGS`,
+`libispec.a`. Please modify the make variables `CXX`, `CPPFLAGS`,
 `CXXFLAGS`, and `LDFLAGS` as needed.
 
 ## Problem setup
